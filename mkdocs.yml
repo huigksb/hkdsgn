@@ -1,3 +1,4 @@
 site_name: 香港单身证明办理指南：最新寡佬证样本、公证流程及时间表
 theme:
   name: material
+  custom_dir: overrides
